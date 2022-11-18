@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: rgb(53, 49, 49);
+}
+
+h1 {
+  text-transform: uppercase;
+  color: rgb(151, 51, 84);
+}
+
+h2 {
+color: rgb(44, 83, 212);
+}
+
+h5 {
+  color: white;
+}
+
+.card {
+  height: 140px;
+  width: 100px;
+  background-color: rgb(151, 51, 84);
+  margin: 2px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.board {
+  width: 400px;
+  margin: auto;
+}
+
+.stich {
+  background-image: url("/img/stich.png");
+  background-size: contain;
+}
